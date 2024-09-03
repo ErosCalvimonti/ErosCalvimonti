@@ -5,7 +5,7 @@
 </div>
   
 ## About me
-### <div align="center"> Hey! I'm Eros a QA Automation Engineer from Argentina 🇦🇷 passionate about creating visually appealing projects with excellent software quality 👨‍💻  </div> ###   
+### <div align="center"> Hey! I'm Eros a Tester Engineer from Argentina 🇦🇷 passionate about creating visually appealing projects with excellent software quality 👨‍💻  </div> ###   
 
 <div>
 
