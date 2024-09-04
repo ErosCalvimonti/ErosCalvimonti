@@ -1,11 +1,10 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&pause=1000&color=AEE5FFDD&background=1E1E1E&center=true&vCenter=true&random=true&height=100&lines=Welcome+to+my+Github+%F0%9F%92%BB;I'm+Eros+Calvimonti+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;QA+Automation+Engineer+%F0%9F%96%A5%EF%B8%8F+%F0%9F%94%8D)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&pause=1000&color=AEE5FFDD&background=1E1E1E00&center=true&vCenter=true&random=true&height=100&lines=Welcome+to+my+Github+%F0%9F%92%BB;I'm+Eros+Calvimonti+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Software+QA+Engineer+%F0%9F%96%A5%EF%B8%8F+%F0%9F%94%8D)](https://git.io/typing-svg)
 </div>
   
 ## About me
-### <div align="center"> Hey! I'm Eros a Tester Engineer from Argentina 🇦🇷 passionate about creating visually appealing projects with excellent software quality 👨‍💻  </div> ###   
+### <div align="center"> Hey! I'm Eros a Software QA Engineer from Argentina 🇦🇷 passionate about creating visually appealing projects with excellent software quality 👨‍💻  </div> ###   
 
 <div>
 
