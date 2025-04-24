@@ -65,17 +65,6 @@
 - 📊 Data-driven approach to test strategy and reporting
 - 🛠️ Custom test framework development
 
-## My QA Journey 🗺️
-
-```mermaid
-graph LR
-    A[Manual Testing] -->|Automation Curiosity| B(Selenium Mastery)
-    B --> C{Branching Out}
-    C -->|API Testing| D[Postman Pro]
-    C -->|Modern Frameworks| E[Cypress Ninja]
-    C -->|Continuous Integration| F[Jenkins Juggler]
-```
-
 <div align="center">
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eroscalvimonti)
